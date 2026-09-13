@@ -1,0 +1,68 @@
+body{
+    background-color: white;
+}
+body,html{
+    height: 100%;
+}
+header{
+    flex: left;
+}
+.button {
+    border:none;
+    color:white;
+    padding:15px 32px;
+    
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 70px;
+    cursor: pointer;
+    width: 200px;
+    margin-bottom: 25px;
+    flex: left;
+}
+.button1 {
+    padding: 30px;
+    background-color: black;
+    font-family: Helvetica;
+    font-weight:300; 
+}
+h1  {
+    padding-left: 105px;
+    padding-bottom: 70px;
+    width: 250px;
+    font-family: Georgia;
+    font-size: 30px;
+    color: black;
+    
+    
+}
+pre {
+    font-family: Georgia;
+    font-size: 12px;
+    padding-left: 40px;
+}
+.navbutton {
+    padding: 25px;
+    width: 250px;
+    float: left;
+    margin-top: 2%;
+}
+article   {
+    float: left;
+    padding: 25px;
+    width: 100%;
+}
+b {
+    a:hover{
+        text-decoration: none;
+        color:7E062A}
+}
+.imgbox {
+    padding-top: 2%;
+    width: 55%;
+    height: 100%;
+    
+    display: block;
+    margin: auto;
+}
