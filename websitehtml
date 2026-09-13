@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+</head>
+<body>
+    <marquee behavior="scroll" direction="left">Now Playing... Pavane Pour Une Infante- Maurice Ravel</marquee>
+        <nav class="navbutton">
+            <nav>
+                <h1>Rodrigo Baltazar</h1>
+            </nav>    
+        
+            <a href="https://www.instagram.com/0636AM/?hl=en">
+                <button class="button button1">INSTAGRAM</button>
+            </a>
+            <a href="https://x.com/0636AM">
+                <button class="button button1">TWITTER</button>
+            </a>
+            <a href="">
+                <button class="button button1">GALLERY</button>
+            </a>
+            <a href="mailto:0636AM@proton.me">
+                <button class="button button1">CONTACT ME</button>
+            </a>
+            
+        </nav>
+    
+    
+    <nav>
+        <img class="imgbox" src="art1.jpg" id="photo">
+    </nav>
+        
+    
+</body>
+</html>
